@@ -1,0 +1,9 @@
+C:/Users/Asadullah/Documents/Projects/CPP_Opencv/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Asadullah/Documents/Projects/CPP_Opencv/build/CMakeFiles/Experimental.dir
+C:/Users/Asadullah/Documents/Projects/CPP_Opencv/build/CMakeFiles/Continuous.dir
+C:/Users/Asadullah/Documents/Projects/CPP_Opencv/build/CMakeFiles/Nightly.dir
+C:/Users/Asadullah/Documents/Projects/CPP_Opencv/build/CMakeFiles/cv.dir
+C:/Users/Asadullah/Documents/Projects/CPP_Opencv/build/CMakeFiles/PACKAGE.dir
+C:/Users/Asadullah/Documents/Projects/CPP_Opencv/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Asadullah/Documents/Projects/CPP_Opencv/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Asadullah/Documents/Projects/CPP_Opencv/build/CMakeFiles/ZERO_CHECK.dir

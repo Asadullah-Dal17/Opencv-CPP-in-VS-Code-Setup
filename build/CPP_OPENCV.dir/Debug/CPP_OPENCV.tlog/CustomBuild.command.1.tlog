@@ -1,0 +1,10 @@
+^C:\USERS\ASADULLAH\DOCUMENTS\PROJECTS\CPP_OPENCV\CMAKELISTS.TXT
+setlocal
+C:\Users\Asadullah\AppData\Local\Programs\Python\Python37\Lib\site-packages\cmake\data\bin\cmake.exe -SC:/Users/Asadullah/Documents/Projects/CPP_Opencv -BC:/Users/Asadullah/Documents/Projects/CPP_Opencv/build --check-stamp-file C:/Users/Asadullah/Documents/Projects/CPP_Opencv/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
